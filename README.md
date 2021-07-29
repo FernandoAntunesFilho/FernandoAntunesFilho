@@ -6,7 +6,7 @@
 
  
 
-:computer: Eu sou Sesenvolvedor Front-End e Back-End!
+:computer: Eu sou Desenvolvedor Front-End e Back-End!
 
 :house_with_garden: Estou em Piracicaba / SP.
 
