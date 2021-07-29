@@ -12,7 +12,7 @@
 
 :books: Atualmente estou aprendendo POO e Python.
 
-:outbox_tray: Objetivos de 2021: trabalhar em projetos pessoais para desenvolver ainda mais o conhecimento e iniciar em um novo emprego.
+:outbox_tray: Objetivos de 2021: trabalhar em projetos pessoais para desenvolver ainda mais o conhecimento, iniciar em um novo emprego e começar a aprender Alemão 🇩🇪.
 
  
 
