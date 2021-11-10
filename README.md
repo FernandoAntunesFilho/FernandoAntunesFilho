@@ -10,9 +10,11 @@
 
 :house_with_garden: Estou em Piracicaba / SP.
 
-:books: Atualmente estou aprendendo POO e Python.
+:necktie: Trabalho na Icatu Seguros.
 
-:outbox_tray: Objetivos de 2021: trabalhar em projetos pessoais para desenvolver ainda mais o conhecimento, iniciar em um novo emprego e começar a aprender Alemão 🇩🇪.
+:books: Atualmente estou aprendendo POO, C# e .Net.
+
+:outbox_tray: Objetivos de 2021: trabalhar em projetos pessoais para desenvolver ainda mais o conhecimento e começar a aprender Alemão 🇩🇪.
 
  
 
