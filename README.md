@@ -6,17 +6,10 @@
 
  
 
-:computer: Eu sou Desenvolvedor Front-End e Back-End!
+:computer: Eu sou Desenvolvedor Back-End e me aventuro no Front-End.
 
 :house_with_garden: Estou em Piracicaba / SP.
 
-:necktie: Trabalho na Icatu Seguros.
-
-:books: Atualmente estou aprendendo POO, C# e .Net.
-
-:outbox_tray: Objetivos de 2021: trabalhar em projetos pessoais para desenvolver ainda mais o conhecimento e começar a aprender Alemão 🇩🇪.
-
- 
 
 ## Sobre mim
 
