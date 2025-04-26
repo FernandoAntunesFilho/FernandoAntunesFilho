@@ -30,6 +30,15 @@ Atualmente, estou buscando oportunidades como **Desenvolvedor Back-End .NET**, o
 
 ---
 
+## 📚 Atualmente estudando
+
+- Inteligência Artificial e Fundamentos de Dados
+- Aceleração C#: Autenticação e Autorização
+- Aceleração C#: Testes de Integração
+- Desenvlvimento Web com Angular JS
+
+---
+
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/fernandoantunesfilho/)
