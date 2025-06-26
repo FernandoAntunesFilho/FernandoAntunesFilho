@@ -34,8 +34,9 @@ Atualmente, estou buscando oportunidades como **Desenvolvedor Back-End .NET**, o
 
 - Inteligência Artificial e Fundamentos de Dados
 - Aceleração C#: Autenticação e Autorização
-- Aceleração C#: Testes de Integração
+- Aceleração C#: Logs e Filtros
 - Desenvlvimento Web com Angular JS
+- Desenvolvimento comm Phyton
 
 ---
 
